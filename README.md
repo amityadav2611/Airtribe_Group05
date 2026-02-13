@@ -118,7 +118,7 @@ project-root/
 Clone repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/amityadav2611/Airtribe_Group05.git
 cd project-folder
 
 Install dependencies:
@@ -129,7 +129,7 @@ npm install
 
 Create .env file:
 PORT=5002
-MONGO_URL=mongodb://localhost:27017/finance or atls string url
+MONGO_URL=mongodb://localhost:27017/finance or atlas string url
 JWT_SECRET=your_secret_key
 
 
